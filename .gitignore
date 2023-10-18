@@ -1,0 +1,14 @@
+# Project exclude paths
+/akka-http/target/
+/akka-http/target/scala-3.3.1/classes/
+/http4s/target/
+/http4s/target/scala-3.3.1/classes/
+/play/target/
+/play/target/scala-3.3.1/classes/
+/project/project/target/
+/project/target/
+/shared/target/
+/shared/target/scala-3.3.1/classes/
+/target/
+/zio-http/target/
+/zio-http/target/scala-3.3.1/classes/
